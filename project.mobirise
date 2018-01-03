@@ -67,7 +67,7 @@
             "overlayOpacity": "0.4"
           },
           "title": "<br>FREE FOOD FOR US BOTH",
-          "text": "<br>Hi, my name is Jools.&nbsp;I love HelloFresh and a good bargain - I asssume you feel the same way? So, if you create a HelloFresh account using my code we'll both get AU$50 credit, WIN-WIN!<br><br>Simply click the button below and you will be taken to HelloFresh.com.au with the coupon automagically applied (nom-nom)!",
+          "text": "<br>Hi, my name is Jools.&nbsp;I love HelloFresh and a good bargain - I asssume you feel the same way? So, if you create a HelloFresh account using my code we'll both get AU$50 credit, WIN-WIN!<br><br>Simply click the button below and you will be taken to HelloFresh.com.au with the coupon code <b>BRIDGEHO</b> automagically applied (nom-nom)!",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://www.hellofresh.com.au/?c=BRIDGEHO\" data-toolbar=\"-mbrBtnMove\">TAKE ME THERE</a> "
         },
         {
