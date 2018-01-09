@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "ecosa.html",
+    "currentPage": "vinomofo.html",
     "name": "ilove.coupons",
     "theme": {
       "name": "mobirise3",
@@ -761,7 +761,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-1620x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-1620x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
