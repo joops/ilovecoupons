@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "vinomofo.html",
+    "currentPage": "hellofresh.html",
     "name": "ilove.coupons",
     "theme": {
       "name": "mobirise3",
@@ -11,7 +11,7 @@
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
-        "dangerColor": "#f28281",
+        "dangerColor": "#d14841",
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
@@ -19,7 +19,8 @@
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
         "isRtl": false
-      }
+      },
+      "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 30,
@@ -761,7 +762,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-1620x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-5-1620x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -771,11 +772,11 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.6"
+            "overlayOpacity": "0.4"
           },
           "title": "<br>FREE WINE FOR US BOTH",
           "text": "<br>Hello friend, my name is Jools. I take it you've arrived here because you're thinking about joining the amazing (and creatively named) Vinomofo?&nbsp;<br><br>I like wine and Vinomofo are a great source of it. I also like free stuff and I assume you feel the same way? If you click the button below and create an account, we'll both be credited with $ 25 in our account.<br><br>It's a WIN-WIN for us both!<br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://www.vinomofo.com/jools\" data-toolbar=\"-mbrBtnMove\">LET'S DO THIS!</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://www.vinomofo.com/jools\" data-toolbar=\"-mbrBtnMove\">LET'S DO THIS!</a> ",
           "_anchor": "header1-p"
         },
         {
@@ -872,7 +873,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1440x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-6-1620x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
