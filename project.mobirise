@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "onebed.html",
+    "currentPage": "airbnb.html",
     "name": "ilove.coupons",
     "theme": {
       "name": "mobirise3",
@@ -1009,9 +1009,9 @@
             "overlayColor": "#000",
             "overlayOpacity": "0.4"
           },
-          "title": "$50 First Time Airbnb Coupon<br><br>",
-          "text": "<br>I love travel, Airbnb and a good bargain - I asssume you feel the same way?<br><br>My personal friends on Facebook are a lucky bunch because I share my first time Airbnb coupon with them. Using my code you would get $55 AUD in Airbnb credit (and I'll net $25 AUD), WIN-WIN!<br><br>Sounds good right?!",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://www.facebook.com/gulliver.travis.10\" data-toolbar=\"-mbrBtnMove\">LET'S BE MATES!</a> ",
+          "title": "$55 First Time Airbnb Coupon<br><br>",
+          "text": "<br>I love travel, Airbnb and a good bargain - I asssume you feel the same way?<br><br>My personal friends can use the code <b>julianh4642</b>&nbsp;code to get $55 AUD in Airbnb credit (and I'll net $25 AUD), WIN-WIN!<br><br>Sounds good right?! Just connect with me on Instagram to make sure we're properly acquainted!",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://www.instagram.com/gullivertravis\" data-toolbar=\"-mbrBtnMove\">LET'S BE MATES!</a> ",
           "_anchor": "header1-u"
         },
         {
